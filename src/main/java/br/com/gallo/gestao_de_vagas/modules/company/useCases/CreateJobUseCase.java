@@ -8,7 +8,6 @@ import br.com.gallo.gestao_de_vagas.modules.company.repositories.JobRepository;
 
 @Service
 public class CreateJobUseCase {
-
   @Autowired
   private JobRepository jobRepository;
 
